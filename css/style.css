@@ -1,0 +1,49 @@
+.jumbotron {
+    width: 85%; 
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.dropdown {
+
+    position: absolute;
+    top: 0px; 
+    right: 0px; 
+}
+hr{
+    border: none;
+}
+.container-fluid {
+    width: 93%; 
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.dropdown-item:hover {
+    background-color: rgb(54,123,182); 
+}
+.dropdown .btn-secondary {
+ width: 230px;
+ border: 1px;
+ color: white; 
+ text-align: left;
+ border-radius: 0;
+ background-color: rgb(54,123,182);
+ border-color: rgb(54,123,182); 
+}
+.dropdown-menu {
+    width: 230px; 
+}
+h2 {
+     font-weight: normal; 
+}
+.btn {
+    background-color: rgb(229, 229, 229); 
+    color: rgb(36, 34, 34);
+}
+footer {
+    padding-top: 20px; 
+    padding-left: 0px;
+}
+footer {
+    padding-top: 20px; 
+    margin-left: 20px;
+}
